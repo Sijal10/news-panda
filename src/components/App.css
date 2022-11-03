@@ -1,0 +1,5 @@
+@media only screen and (max-width: 100px) {
+    .navbar {
+      background-color: rgb(2, 58, 77);
+    }
+  }
